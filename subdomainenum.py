@@ -2,8 +2,7 @@
 """
 Subdomain Enumerator - Enumeración de subdominios
 CREADOR: phishbroker
-CONTACTO: phishbroker@proton.me
-SITIO: https://phishbroker.github.io/blackmarket/
+CONTACTO: https://x.com/phishbroker
 """
 
 import dns.resolver
